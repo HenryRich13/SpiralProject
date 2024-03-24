@@ -1,0 +1,2 @@
+class LightWidgetsError(Exception):
+    pass
